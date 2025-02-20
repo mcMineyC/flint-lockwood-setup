@@ -1,0 +1,9 @@
+[submodule "edid-gen"]
+	path = edid-gen
+	url = https://github.com/nibon7/edid-gen
+[submodule "edid-generator"]
+	path = edid-generator
+	url = https://github.com/akatrevorjay/edid-generator
+[submodule "edid-rw"]
+	path = edid-rw
+	url = https://github.com/bulletmark/edid-rw

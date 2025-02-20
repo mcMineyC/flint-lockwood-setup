@@ -1,0 +1,4 @@
+# 2736x1536 59.94 Hz (CVT) hsync: 94.70 kHz; pclk: 274.25 MHz
+Modeline "2736x1536R"  274.25  2736 2784 2816 2896  1536 1539 1549 1580 +hsync -vsync ratio=16:9
+# 1920x1080 89.93 Hz (CVT) hsync: 102.52 kHz; pclk: 269.00 MHz
+Modeline "1920x1080"  269.00  1920 2064 2272 2624  1080 1083 1088 1140 -hsync +vsync
