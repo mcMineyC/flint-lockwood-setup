@@ -9,5 +9,7 @@ Picture for reference
 
 # Setup
 1. Making the fake EDID binary
-  First, cd to edid-gen
-  Then execute the following command: ```cat modeline | ./modeline2edid```
+- `cd edid-gen`
+- `cvt 2732 1536 60 -r > modeline` (don't ask me what the -r flag does, but it makes it work)
+- `cat modeline | ./modeline2edid`
+- The output file should be called *xResolution*x*yResolution*R.bin
