@@ -1,0 +1,1 @@
+options root=PARTUUID=53e7faef-453a-4744-870d-ba6ffd6ee429 zswap.enabled=0 rw rootfstype=ext4 video=DVI-I-1:2732x1536@30 drm.edid_firmware=DVI-I-1:edid/2736.bin,HDMI-1:edid/hdmi.bin
